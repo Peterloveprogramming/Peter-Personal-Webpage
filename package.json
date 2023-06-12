@@ -14,12 +14,12 @@
     "url": "git+https://github.com/cobidev/simplefolio"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Peter Yan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
+    "url": "https://github.com/Peterloveprogramming/Portfolio/issues"
   },
-  "homepage": "https://github.com/cobidev/simplefolio#readme",
+  "homepage": "https://github.com/Peterloveprogramming/Portfolio",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.7.0",
     "parcel": "^2.7.0",
